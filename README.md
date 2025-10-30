@@ -10,6 +10,7 @@ This project was built as part of the **CCBP React course** to demonstrate maste
 ## 🚀 Live Demo
 
 🔗 [View Project](#) *(https://nxtwatch27.ccbp.tech)*
+  -creds: {username:rahul, password:rahul@2021}
 
 ---
 
